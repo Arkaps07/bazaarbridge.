@@ -1,0 +1,6 @@
+{
+  "name": "BazaarBridge",
+  "description": "Multi-dealer e-commerce marketplace and hybrid fulfilment platform powered by PostgreSQL, Kafka, and OpenSearch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
